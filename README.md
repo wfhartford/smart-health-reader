@@ -13,3 +13,8 @@ shc:/01234567890123456789...
 ```
 
 Copy the long string of decimal digits, and feed that to the python script on standard in.
+
+SMART Health Cards
+--
+SMART Health Cards are an open standard for this type of health information, the main website is at
+https://smarthealth.cards/, and the specification is at https://spec.smarthealth.cards/.
